@@ -1,0 +1,9 @@
+.vs
+*.dll
+*.exe
+*.cache
+*.pdb
+GUI/bin
+GUI/obj
+BenNHControl/obj
+BenNHControl/bin
